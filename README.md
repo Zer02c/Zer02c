@@ -2,7 +2,7 @@
 #### About me
 ![About me](https://res.cloudinary.com/practicaldev/image/fetch/s--SFndFZuG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zxej0sdwxz7mwokvg8jh.jpg)
 
-Im 17 yo and live in Hessen/Germany Im Programming for about 4 years i like coding Challanges, low level languages, Image Processing and Ai
+Im 17 years old and live in Hessen/Germany Im Programming for about 4 years i like coding Challanges, low level languages, Image Processing and Ai
 
 Skills: Python/C/C++;Frameworks: Pytorch/Opencv
 
